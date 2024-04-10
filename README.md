@@ -9,3 +9,4 @@ xspm@1-0-0.xsp
 finder@1-0-0.xsp
 sam-astro-zsharp@1-0-0.xsp
 vim@1-0-0.xsp
+neovim@1-0-0.xsp
